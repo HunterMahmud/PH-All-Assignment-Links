@@ -33,17 +33,17 @@
 **github repo link:** https://github.com/HunterMahmud/nova-estate \
 **Live link:** https://nova-estate.web.app/
 
-## Assignemnt 10:
+## Assignemnt 10: -- Nova Tour (Tour Management website)
 **github link 1 (client side):** https://github.com/HunterMahmud/nova-tourism-client \
 **github link 2 (server side):** https://github.com/HunterMahmud/nova-tourism-server \
 **Live link:** https://nova-tourism.web.app
 
-## Assignemnt 11:
+## Assignemnt 11: -- Nova Books (Books management website)
 **github link 1 (client side):** https://github.com/HunterMahmud/nova-books-client \
 **github link 2 (server side):** https://github.com/HunterMahmud/nova-books-server \
 **Live link:** https://nova-books.web.app
 
-## Assignemnt 12:
+## Assignemnt 12: -- ThriveFit (Gym management website)
 **github link 1 (client side):** https://github.com/HunterMahmud/ThriveFit-Client \
 **github link 2 (server side):** https://github.com/HunterMahmud/ThriveFit-server \
 **Live link:** https://thrive-fit-f0d68.web.app/
